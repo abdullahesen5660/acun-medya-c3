@@ -1,0 +1,42 @@
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.AssemblyInfoInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.AssemblyInfo.cs
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.exe
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.deps.json
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.runtimeconfig.json
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.pdb
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\refint\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.pdb
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.genruntimeconfig.cache
+C:\Users\Monster\OneDrive\Masaüstü\maasHeseplama\maasHeseplama\obj\Debug\net8.0\ref\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.deps.json
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.runtimeconfig.json
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.AssemblyInfoInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.AssemblyInfo.cs
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\refint\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.genruntimeconfig.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHesaplama\maasHeseplama\obj\Debug\net8.0\ref\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.deps.json
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.runtimeconfig.json
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\bin\Debug\net8.0\maasHeseplama.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.AssemblyInfoInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.AssemblyInfo.cs
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\refint\maasHeseplama.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\maasHeseplama.genruntimeconfig.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\maasHeseplama\maasHesaplama\maasHeseplama\obj\Debug\net8.0\ref\maasHeseplama.dll

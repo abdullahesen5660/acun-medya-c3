@@ -1,0 +1,7 @@
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\caseBreak ArabaYası\bin\Debug\caseBreak ArabaYası.exe.config
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\caseBreak ArabaYası\bin\Debug\caseBreak ArabaYası.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\caseBreak ArabaYası\bin\Debug\caseBreak ArabaYası.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\caseBreak ArabaYası\obj\Debug\caseBreak ArabaYası.csproj.AssemblyReference.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\caseBreak ArabaYası\obj\Debug\caseBreak ArabaYası.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\caseBreak ArabaYası\obj\Debug\caseBreak ArabaYası.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\caseBreak ArabaYası\obj\Debug\caseBreak ArabaYası.pdb

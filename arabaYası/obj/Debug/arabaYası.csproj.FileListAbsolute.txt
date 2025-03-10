@@ -1,0 +1,7 @@
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\arabaYası\bin\Debug\arabaYası.exe.config
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\arabaYası\bin\Debug\arabaYası.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\arabaYası\bin\Debug\arabaYası.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\arabaYası\obj\Debug\arabaYası.csproj.AssemblyReference.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\arabaYası\obj\Debug\arabaYası.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\arabaYası\obj\Debug\arabaYası.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\arabaYası\obj\Debug\arabaYası.pdb

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "maasHeseplama": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
